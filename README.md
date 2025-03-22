@@ -10,7 +10,7 @@ sudo apt-get install -y yasm && \
 make
 ```
 
-Clean remaining object files with `make clean`.
+Remove remaining object files with `make clean`.
 
 ## Usage
 ```
