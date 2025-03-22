@@ -1,9 +1,5 @@
 section .data
 
-section .bss
-	STDIN 	resb 10
-	lol	resb 10
-
 section .text
 
 global _start
