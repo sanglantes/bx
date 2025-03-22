@@ -14,5 +14,4 @@ bx: $(OBJS)
 	$(LD) -o $@ $(OBJS)
 
 clean:
-	rm -f $(OBJS) bx
-
+	rm -f $(OBJS)
