@@ -11,3 +11,9 @@ make
 ```
 
 Clean remaining object files with `make clean`.
+
+## Usage
+```
+bx <BASE> <EXPONENT>
+```
+Result is written to `stdout`.
